@@ -1,0 +1,10 @@
+git --version
+git config --list
+repository = folder
+git init
+
+
+
+branch = workspace
+
+staging area m daalna = samaan utha ke gt box m daala
